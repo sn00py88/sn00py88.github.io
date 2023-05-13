@@ -1,1 +1,1 @@
-[Blog](blog) | [Docs](docs)
+[blog_](blog) | [docs_](docs)
